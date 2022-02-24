@@ -1,0 +1,11 @@
+C:\Users\19axer\Projects\Programming2\Client\bin\Debug\Client.exe.config
+C:\Users\19axer\Projects\Programming2\Client\bin\Debug\Client.exe
+C:\Users\19axer\Projects\Programming2\Client\bin\Debug\Client.pdb
+C:\Users\19axer\Projects\Programming2\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\19axer\Projects\Programming2\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\19axer\Projects\Programming2\Client\obj\Debug\Client.ClientMainForm.resources
+C:\Users\19axer\Projects\Programming2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\19axer\Projects\Programming2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\19axer\Projects\Programming2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\19axer\Projects\Programming2\Client\obj\Debug\Client.exe
+C:\Users\19axer\Projects\Programming2\Client\obj\Debug\Client.pdb
